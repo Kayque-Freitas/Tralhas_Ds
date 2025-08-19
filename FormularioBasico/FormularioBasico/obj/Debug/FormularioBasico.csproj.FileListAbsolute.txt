@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\FormularioBasico\FormularioBasico\obj\Debug\FormularioBasico.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\FormularioBasico\FormularioBasico\obj\Debug\FormularioBasico.frmCliente.resources
+C:\Users\Aluno\source\repos\FormularioBasico\FormularioBasico\obj\Debug\FormularioBasico.frmLogin.resources
+C:\Users\Aluno\source\repos\FormularioBasico\FormularioBasico\obj\Debug\FormularioBasico.Properties.Resources.resources
+C:\Users\Aluno\source\repos\FormularioBasico\FormularioBasico\obj\Debug\FormularioBasico.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\FormularioBasico\FormularioBasico\obj\Debug\FormularioBasico.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\FormularioBasico\FormularioBasico\bin\Debug\FormularioBasico.exe.config
+C:\Users\Aluno\source\repos\FormularioBasico\FormularioBasico\bin\Debug\FormularioBasico.exe
+C:\Users\Aluno\source\repos\FormularioBasico\FormularioBasico\bin\Debug\FormularioBasico.pdb
+C:\Users\Aluno\source\repos\FormularioBasico\FormularioBasico\obj\Debug\FormularioBasico.exe
+C:\Users\Aluno\source\repos\FormularioBasico\FormularioBasico\obj\Debug\FormularioBasico.pdb
